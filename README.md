@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
