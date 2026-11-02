@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
