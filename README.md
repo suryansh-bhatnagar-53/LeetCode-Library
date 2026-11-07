@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1882-process-tasks-using-servers](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2747-count-zero-request-servers](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/2747-count-zero-request-servers) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [1882-process-tasks-using-servers](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
