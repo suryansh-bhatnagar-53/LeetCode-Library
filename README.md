@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3364-minimum-positive-sum-subarray](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2747-count-zero-request-servers](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Divide and Conquer
@@ -270,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
