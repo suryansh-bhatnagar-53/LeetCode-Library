@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0678-valid-parenthesis-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/3665-twisted-mirror-path-count) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -275,5 +278,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/suryansh-bhatnagar-53/LeetCode-Practice/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
